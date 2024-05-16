@@ -1,6 +1,6 @@
 # fe-spec
 
-印客学院 前端编码规范工程化xxxxx
+印客学院 前端编码规范工程化xxxxx000
 
 ## :mountain: 能力支持
 
