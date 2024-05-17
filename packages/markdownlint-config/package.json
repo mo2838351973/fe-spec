@@ -20,5 +20,6 @@
   },
   "peerDependencies": {
     "markdownlint": "^0.28.1"
-  }
+  },
+  "gitHead": "047b60b8baeab571919b56f586ddd103afa4c07a"
 }
