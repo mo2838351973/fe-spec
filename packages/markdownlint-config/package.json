@@ -1,6 +1,6 @@
 {
   "name": "markdownlint-config-encode",
-  "version": "1.0.8",
+  "version": "2.0.0",
   "main": "index.json",
   "description": "印客学院 文档规范",
   "keywords": [
